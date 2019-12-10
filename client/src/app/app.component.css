@@ -19,6 +19,9 @@
     display: none;
 
 }
+.header-background-color{
+    background-color: #ebe0df
+}
 
  .modal-background-color{
      background-color: lightgrey;
